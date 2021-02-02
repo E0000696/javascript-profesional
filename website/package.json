@@ -1,0 +1,16 @@
+{
+ "name": "cap-media-player",
+ "version": "1.0.0",
+ "description": "Proyecto del Curso Profesional de JavaScript de la Escuela de JavaScript de cap.",
+ "license": "MIT",
+ "author": "John Michel Rivera <lionheart815@hotmail.com>",
+ "keywords": [
+  "cap"
+ ],
+ "scripts": {
+  "start": "live-server"
+ },
+ "devDependencies": {
+  "live-server": "^1.2.1"
+ }
+}
